@@ -1,0 +1,1 @@
+This file is used to explore rename command in git.
